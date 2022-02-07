@@ -1,0 +1,19 @@
+.container {
+    width: 360px;
+    height: 603px;
+    border: solid #000000 1px;
+    padding-left: 30px;
+    font-family: 'Archivo', sans-serif;
+    padding-top: 10px;
+}
+
+h1 {
+    font-weight: 600;
+    color: #604E3A;
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 12px;
+    color:#604E3A;
+}
